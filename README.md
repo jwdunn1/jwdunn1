@@ -1,4 +1,4 @@
-<a href="#"><img alt="headimage" src="https://media-exp1.licdn.com/dms/image/C4E16AQGcAghzV8E2aw/profile-displaybackgroundimage-shrink_350_1400/0/1516230003533?e=1668643200&v=beta&t=ZXuRQ_2yaxy_4WyTl52HKn_q6X4Gq9I6M4Q4KJ6iBHE" /></a>
+<a href="#"><img alt="headimage" src="https://github.com/level5-engineers/assets/blob/master/images/detection.jpg?raw=true" /></a>
 
 <a href="https://www.linkedin.com/in/jwilliamdunn">
   <img align="left" alt="LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg#gh-light-mode-only" />
